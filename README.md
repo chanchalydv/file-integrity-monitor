@@ -305,8 +305,6 @@ Through this project, I learned:
 
 **Chanchal Yadav**
 
-B.Tech CSE – Cyber Security
-
 ---
 
 ## ⭐ Project
