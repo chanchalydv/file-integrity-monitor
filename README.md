@@ -4,7 +4,7 @@ A beginner-friendly cybersecurity project built with Python that detects unautho
 
 ## 📌 About the Project
 
-The File Integrity Monitor (FIM) continuously checks files inside a monitored directory and creates a unique SHA-256 hash for each file.
+The File Integrity Monitor (FIM) scans files inside a monitored directory and creates a unique SHA-256 hash for each file.
 
 During every scan, the newly calculated hash is compared with the previously stored hash.
 
