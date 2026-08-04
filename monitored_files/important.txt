@@ -1,0 +1,1 @@
+This is an important file monitored by the File Integrity Monitor.
